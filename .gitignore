@@ -1,0 +1,13 @@
+# Any coding project
+.vscode
+
+# Python coding project
+__pycache__
+.venv
+
+# Google APIs
+client_secrets.json
+*.dat
+
+# Data
+data
